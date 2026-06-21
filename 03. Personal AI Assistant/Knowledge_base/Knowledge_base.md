@@ -1,4 +1,12 @@
-# About Me
+# Profile
+The portfolio owner is Anil Reddy Perugu. All provided context belongs to him unless stated otherwise. When users ask about Anil, interpret it as referring to the portfolio owner. This portfolio contains information about his:
+
+- Skills
+- Projects
+- Certifications
+- Education
+- Experience
+- certifications
 
 ## Introduction
 I'm a AI Software Engineer with 4+ years of experience specializing in artificial intelligence and machine learning, along with a strong expertise in Python programming, data preprocessing, and model deployment, with a proven ability to design and deploy data-driven solutions. My work focuses on building AI/ML applications, automating workflows, and improving model accuracy and maintainability
@@ -95,15 +103,11 @@ My objective is to leverage my 4+ years of experience in AI engineering and Pyth
   * **Class 6:** Telangana State Model School (TSMS) — Grade: 90%
   * **Class 1 to 5:** Sri Adarsha High School — Grade: 80%
 
-# Certifications
-
-## ☁️ Cloud AI & Data Engineering (Microsoft Certified)
+# Certifications and Professional Credentials
 * **Microsoft Certified: Azure AI Engineer Associate** — Microsoft (Issued: April 2026)
   * Focus: Designing and implementing AI solutions using Azure OpenAI, Cognitive Services, and custom machine learning pipelines at scale.
 * **Microsoft Certified: Fabric Data Engineer Associate** — Microsoft (Issued: March 2026)
   * Focus: Core data engineering workloads, enterprise data analytics pipelines, lakehouse architectures, and end-to-end data integration.
-
-## 🛠️ AI Development & Tooling
 * **GitHub Copilot Certification** — Microsoft / GitHub (Issued: October 2025)
   * Focus: AI-assisted software development, prompt optimization, and accelerating production workflows securely.
 
