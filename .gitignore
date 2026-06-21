@@ -8,6 +8,14 @@
 __pycache__/
 *.pyc
 
+# Environment Variables
+.env
+
+# Virtual Environment
+.venv/
+
 # Optional logs
 *.log*.pth
 *.pth
+
+
