@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from chatbot_ollama import ask_question
+from chatbot import ask_question
 
 #Creating the app
 app = FastAPI()
