@@ -48,7 +48,7 @@ The primary goals of this repository are:
 
 - 🧾**PROJECT1.** Face Detection with Custom Database
 - 💰**PROJECT2.** GPT-Style LLM from Scratch
-- 🤖**PROJECT2.** Personal portfolio AI Assistant
+- 🤖**PROJECT3.** Personal portfolio AI Assistant
 
 ---
 
