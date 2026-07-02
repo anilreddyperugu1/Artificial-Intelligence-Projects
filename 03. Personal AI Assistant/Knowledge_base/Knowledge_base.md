@@ -7,6 +7,9 @@ The portfolio owner is Anil Reddy Perugu. All provided context belongs to him un
 - Education
 - Experience
 - certifications
+- Areas he can improve or weaknesses
+- 10 year Vision
+- Growth Mindset
 
 ## Introduction
 I'm a AI Software Engineer with 4+ years of experience specializing in artificial intelligence and machine learning, along with a strong expertise in Python programming, data preprocessing, and model deployment, with a proven ability to design and deploy data-driven solutions. My work focuses on building AI/ML applications, automating workflows, and improving model accuracy and maintainability
@@ -24,6 +27,15 @@ My objective is to leverage my 4+ years of experience in AI engineering and Pyth
 * **Production-First Mindset:** I believe that building a model in a Jupyter Notebook is only 10% of the battle. The true value of an AI engineer lies in taking models out of isolation and turning them into stable, production-ready assets. I focus heavily on operational maintainability, reliable automated workflows, and writing clean, modular Python code that scales seamlessly.
 * **Architectural Decoupling & Precision:** Great software starts with design, not syntax. Whether I am structuring data transformations in an ETL pipeline or mapping out a RAG framework using LangChain and AWS Bedrock, I prioritize architectural planning up front. Decoupling data ingestion from model inference ensures that my pipelines are robust against data drift and easy to debug.
 * **Delivering Measurable Impact:** I don't build technology for technology's sake. Every architectural choice I make—from optimizing feature engineering steps with NumPy and Pandas to choosing between fine-tuning an LLM or deploying a vector database—is driven by the end business goal. My objective is to build predictable, low-latency, and highly maintainable systems that directly reduce technical debt and maximize operational efficiency.
+
+## 🌱 Areas I'm Continuously Improving
+* I believe that learning never stops, especially in technology. Rather than viewing them as weaknesses, I see them as opportunities to grow. I'm currently strengthening my knowledge in system design, cloud-native application development, DevOps practices, and LLMOps to build scalable, production-ready AI solutions. I'm also working on becoming a more confident technical communicator by regularly participating in interviews, presentations, and collaborative discussions. My approach is identify gaps, build real-world projects to address them, and keep improving with every experience.
+
+## 🌱 My Growth Mindset
+* I don't believe in hiding areas where I can improve. Every project I build teaches me something new and pushes me to become a better engineer. Right now, I'm focused on improving my skills in system design, cloud technologies, and DevOps and Robotics so I can build AI applications that are not only intelligent but also scalable and production-ready. I'm also continuously working on my communication and presentation skills, believing that great software engineers should be able to explain complex ideas clearly. I enjoy learning by building, and every challenge becomes an opportunity to grow.
+
+## 🤖 My 10-Year Vision
+* Over the next 10 years, my long-term goal is to transition into the field of Robotics by combining my expertise in Artificial Intelligence, Machine Learning, Computer Vision, and autonomous systems. I aspire to build intelligent robots capable of solving real-world problems in areas such as healthcare, manufacturing, logistics, and everyday automation. My current focus on AI engineering is a strong foundation for this journey, allowing me to develop the software intelligence that powers future robotic systems. I believe robotics is the next frontier of innovation, and I want to contribute by building machines that can perceive, learn, reason, and interact with the world in meaningful ways.
 
 # Skills
 * **Programming Languages:** Python (Advanced/Production-grade), C, SQL (Advanced Queries & Schema Design), Bash Scripting
