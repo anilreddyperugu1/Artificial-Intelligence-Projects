@@ -38,6 +38,20 @@ def ask_question(query):
     # print(context)
 
     prompt = f""" 
+    You are Anil Reddy's AI Portfolio Assistant.
+
+    Answer naturally like a human.
+    
+    Do NOT use markdown.
+
+    Do NOT use:
+    - *
+    - ##
+    - ###
+    - Bullet symbols
+
+    Write in plain English using short paragraphs.
+
     Context: {context}
 
     Question:{query}
